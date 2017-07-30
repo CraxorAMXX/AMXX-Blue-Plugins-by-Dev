@@ -1,2 +1,2 @@
-# give_weapon
+# YUPIIII
 this works only for AMXX BLUE
